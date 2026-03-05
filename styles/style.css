@@ -1,0 +1,13 @@
+
+
+.container {
+    margin-bottom: 20px;
+}
+
+.text-start {
+    text-align: left;
+}
+
+.text-end {
+    text-align: end;
+}
